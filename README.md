@@ -6,13 +6,13 @@ I develop open source Natural Language Processing libraries written in Python.
 
 I studied Computer Science and Natural Language Processing at the University of Bordeaux.
 
-[![SekouDiaoNlp's GitHub stats](https://github-readme-stats.vercel.app/api?username=SekouDiaoNlp&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/SekouDiaoNlp/)
+[![SekouDiaoNlp's GitHub stats](https://github-readme-stats.vercel.app/api?username=SekouDiaoNlp&count_private=true&show_icons=true&theme=dark)](https://github.com/SekouDiaoNlp/)
 
 <!--
-[![SekouDiaoNlp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SekouDiaoNlp&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![SekouDiaoNlp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SekouDiaoNlp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![mlconjug3 Card](https://github-readme-stats.vercel.app/api/pin/?username=SekouDiaoNlp&repo=mlconjug3&theme=great-gatsby)](https://github.com/SekouDiaoNlp/mlconjug3) [![pylexique Card](https://github-readme-stats.vercel.app/api/pin/?username=SekouDiaoNlp&repo=pylexique&theme=great-gatsby)](https://github.com/SekouDiaoNlp/pylexique)
+[![mlconjug3 Card](https://github-readme-stats.vercel.app/api/pin/?username=SekouDiaoNlp&repo=mlconjug3&theme=dark)](https://github.com/SekouDiaoNlp/mlconjug3) [![pylexique Card](https://github-readme-stats.vercel.app/api/pin/?username=SekouDiaoNlp&repo=pylexique&theme=dark)](https://github.com/SekouDiaoNlp/pylexique)
 
 <!--
 **SekouDiaoNlp/SekouDiaoNlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
