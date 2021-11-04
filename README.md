@@ -14,6 +14,8 @@ I studied Computer Science and Natural Language Processing at the University of 
 
 [![mlconjug3 Card](https://github-readme-stats.vercel.app/api/pin/?username=SekouDiaoNlp&repo=mlconjug3&theme=dark)](https://github.com/SekouDiaoNlp/mlconjug3) [![pylexique Card](https://github-readme-stats.vercel.app/api/pin/?username=SekouDiaoNlp&repo=pylexique&theme=dark)](https://github.com/SekouDiaoNlp/pylexique)
 
+[![nimporter Card](https://github-readme-stats.vercel.app/api/pin/?username=Pebaz&repo=nimporter&theme=dark)](https://github.com/Pebaz/nimporter) [![pylexique Card](https://github-readme-stats.vercel.app/api/pin/?username=juancarlospaco&repo=faster-than-csv&theme=dark)](https://github.com/juancarlospaco/faster-than-csv)
+
 <!--
 **SekouDiaoNlp/SekouDiaoNlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
