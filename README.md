@@ -6,6 +6,14 @@ I develop open source Natural Language Processing libraries written in Python.
 
 I studied Computer Science and Natural Language Processing at the University of Bordeaux.
 
+<div align='center'>
+
+Mastodon Profile       |
+:-------------------------:|
+[![mastodon profile](https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png)](https://fosstodon.org/@SekouDiao)
+
+</div>
+
 [![SekouDiaoNlp's GitHub stats](https://github-readme-stats.vercel.app/api?username=SekouDiaoNlp&count_private=true&show_icons=true&theme=dark)](https://github.com/SekouDiaoNlp/)
 
 <!--
