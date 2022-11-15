@@ -11,6 +11,7 @@ I studied Computer Science and Natural Language Processing at the University of 
 Mastodon Profile       |
 :-------------------------:|
 [![mastodon profile](https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png)](https://fosstodon.org/@SekouDiao)
+<a rel="me" href="https://fosstodon.org/@SekouDiao">Mastodon</a>
 
 </div>
 
