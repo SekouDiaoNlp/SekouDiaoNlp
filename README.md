@@ -2,6 +2,8 @@
 
 I am a Natural Language Processing and AI/Machine Learning software engineer, passionate about developing open source tools that make language learning and research more accessible.
 
+I program mainly in C and Python and I am currently learning nim and Rust.
+
 One of my flagship projects is [mlconjug3](https://github.com/SekouDiaoNlp/mlconjug3), the ultimate tool for anyone looking to master verb conjugation in multiple languages. With advanced Machine Learning techniques, you can easily conjugate verbs in multiple languages. Whether you're a language student, teacher, developer, or researcher, mlconjug3 is the perfect tool to take your language skills to the next level.
 
 I am also a contributor and maintainer of [nimporter](https://github.com/Pebaz/nimporter), a library that allows seamless import and packaging of Nim extensions for Python built with Nimpy. Nimpy is a powerful library that enables interoperability between Nim and Python, and nimporter's role is to make it even easier for users to access and use these libraries, without needing to have any knowledge of Nim.
@@ -14,7 +16,9 @@ I believe in the power of open source and open science to drive innovation and c
 
 - 🔭 I’m currently working on [PyLFG](https://github.com/SekouDiaoNlp/PyLFG), PyLFG is a Python library for working with LFG (Lexical-Functional Grammar) grammars and parsing sentences using the LFG formalism.
 
-- 📫 How to reach me: <a rel="me" href="https://fosstodon.org/@SekouDiao">Follow me on Mastodon</a>
+- 🌱 I’m currently learning nim and Rust, as well as trying to do more GUI development after doing mainly CLI applications for years on end.
+
+- 📫 How to reach me: <a rel="me" href="https://fosstodon.org/@SekouDiao">Follow me on Mastodon!</a>
 
 
 <!--
