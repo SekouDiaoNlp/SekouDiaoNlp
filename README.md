@@ -2,7 +2,7 @@
 
 I am a Natural Language Processing and AI/Machine Learning software engineer, passionate about developing open source tools that make language learning and research more accessible.
 
-I program mainly in C and Python and I am currently learning nim and Rust.
+I program mainly in C and Python and am proficient in Lua and JavaScript. I am currently learning nim and Rust.
 
 One of my flagship projects is [mlconjug3](https://github.com/SekouDiaoNlp/mlconjug3), the ultimate tool for anyone looking to master verb conjugation in multiple languages. With advanced Machine Learning techniques, you can easily conjugate verbs in multiple languages. Whether you're a language student, teacher, developer, or researcher, mlconjug3 is the perfect tool to take your language skills to the next level.
 
