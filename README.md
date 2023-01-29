@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sekou Diao</h1>
-<h3 align="center">I am a Natural Language Processing and AI/Machine Learning software engineer, passionate about developing open source tools that make language learning and research more accessible.</h3>
+<h3 align="center">I am the founder of <a href="https://github.com/Ars-Linguistica">ARS Linguistica</a> - Where Linguistics Meets Open Science </h3>
 
-I program mainly in C and Python and am proficient in Lua and JavaScript. I am currently learning nim and Rust.
+I am a Natural Language Processing and AI/Machine Learning software engineer 💻, passionate about developing open source tools 🔧 that make language learning and research more accessible 🌐. My flagship project, [mlconjug3](https://github.com/Ars-Linguistica/mlconjug3), is the ultimate tool 🛠️ for anyone looking to master verb conjugation in multiple languages 🌍. It uses advanced Machine Learning techniques to easily conjugate verbs in multiple languages, making it the perfect tool for language students 📚, teachers 🧑🏻‍🏫, developers 🤖, and researchers 🧪 alike.
 
-One of my flagship projects is [mlconjug3](https://github.com/SekouDiaoNlp/mlconjug3), the ultimate tool for anyone looking to master verb conjugation in multiple languages. With advanced Machine Learning techniques, you can easily conjugate verbs in multiple languages. Whether you're a language student, teacher, developer, or researcher, mlconjug3 is the perfect tool to take your language skills to the next level.
+As the founder of [ARS Linguistica](https://github.com/Ars-Linguistica) 🧔🏾, I am dedicated to preserving and promoting linguistic diversity 💬 through the development of open source and open science linguistic tools and resources 💻🔍. 
 
-I am also a contributor and maintainer of [nimporter](https://github.com/Pebaz/nimporter), a library that allows seamless import and packaging of Nim extensions for Python built with Nimpy. Nimpy is a powerful library that enables interoperability between Nim and Python, and nimporter's role is to make it even easier for users to access and use these libraries, without needing to have any knowledge of Nim.
+I am also a contributor and maintainer of [nimporter](https://github.com/Pebaz/nimporter), a library that makes it easier for users to access and use Nim libraries for Python 🐍, without needing any knowledge of Nim 🤓.
 
-In addition to these projects, I have also authored other smaller open source projects that you can find on my profile.
+I have a background in both Computer Science 💻 and Linguistics 💬, having studied both at the University of Bordeaux 🏫. My interests span a wide range of areas in both fields, including compilers and parsers 🧩, programming languages 💻, machine learning 🤖, computer security 🔒, syntax 📜, and natural language understanding 💬.
 
-I studied Computer Science and Linguistics at the University of Bordeaux, and my interests span a wide range of areas in both fields. In computer science, I am particularly interested in compilers and parsers, programming languages, machine learning, and computer security. In linguistics, my focus is on syntax and its interaction with semantics using the [Lexical Functional Grammar](https://en.wikipedia.org/wiki/Lexical_functional_grammar) framework, with a particular interest in natural language understanding and conversational agents.
+I believe in the power of open source 💪 and open science 🧪 to drive innovation and collaboration in technology and research, and am always looking for new opportunities to work on projects that align with my interests 🤓. If you think we could collaborate on something exciting 🤗, feel free to reach out 📩. Thanks for visiting my profile! 🙏
 
-I believe in the power of open source and open science to drive innovation and collaboration in technology and research. I am always looking for new challenges and opportunities to work on projects that align with my interests, so feel free to reach out if you think we could collaborate on something exciting. Thanks for visiting my profile, and I hope you enjoy exploring my projects!
 
-- 🔭 I’m currently working on [PyLFG](https://github.com/SekouDiaoNlp/PyLFG), PyLFG is a Python library for working with LFG (Lexical-Functional Grammar) grammars and parsing sentences using the LFG formalism.
+- 🔭 I’m currently working on [PyLFG](https://github.com/Ars-Linguistica/PyLFG), PyLFG is a Python library for working with LFG (Lexical-Functional Grammar) grammars and parsing sentences using the LFG formalism.
 
 - 🌱 I’m currently learning nim and Rust, as well as trying to do more GUI development after doing mainly CLI applications for years on end.
 
